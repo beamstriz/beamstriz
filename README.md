@@ -1,9 +1,8 @@
 ## Olá! Eu sou a Ana!
 
 - 🔭 Estou atualmente estagiando na Advocacia-Geral da União
-- 🌱 Estou estudando Vue.js, React e Redes
-- 🤔 Estou procurando aprimorar a linguagem Java
-- 💬 Me pergunte sobre qualquer coisa
+- 🌱 Estudando Vue.js, Node
+- 🤔 Estou procurando aprimorar a linguagem Java e JavaScript
 - 📫 Como me encontrar: anamotasoa@gmail.com
 
 
