@@ -2,7 +2,7 @@
 
 - 🔭 Estou atualmente estagiando na Advocacia-Geral da União
 - 🌱 Estudando Java com Spring
-- 🤔 Estou procurando aprimorar meus conhecimentos em back-end
+- 🤔 Estou aprimorando meus conhecimentos em back-end
 - 📫 Como me encontrar: anamotasoa@gmail.com
 
 
