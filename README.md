@@ -2,7 +2,7 @@
 
 - 👩‍💻 Software Developer and IT Technician
 - 👩‍🎓 Studied Computer Science
-- 🤔 Currently studying backend development with Java using Spring Boot 
+- 🌱 Currently studying backend development with Java using Spring Boot 
 - 📫 How to find me: anamotasoa@gmail.com
 
 
@@ -12,10 +12,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=beamstriz&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamstriz&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
 <p align="center">
