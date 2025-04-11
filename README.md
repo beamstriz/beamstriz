@@ -1,9 +1,9 @@
-## Olá! Eu sou a Ana!
+### Hi there, I'm Ana! 😁
 
-- 🔭 Estou atualmente estagiando na Advocacia-Geral da União
-- 🌱 Estudando Java com Spring
-- 🤔 Estou aprimorando meus conhecimentos em back-end
-- 📫 Como me encontrar: anamotasoa@gmail.com
+- 👩‍💻 Software Developer and IT Technician
+- 👩‍🎓 Studied Computer Science
+- 🤔 Currently studying backend development with Java using Spring Boot 
+- 📫 How to find me: anamotasoa@gmail.com
 
 
 <p align="center">
