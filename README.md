@@ -7,9 +7,7 @@
     - 🌱 Currently learning about backend development with Java using Spring Boot<br>
     - 📫 How to find me: anamotasoa@gmail.com
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
-  </div>
+
 </div>
 
 # 💻 Tech Stack:
